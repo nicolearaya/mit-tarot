@@ -1478,7 +1478,6 @@
           "@id": "http://libme25-0479439.mit.edu/objects/tarot/range/r0",
           "@type": "sc:Range",
           "label": "Major Arcana",
-          "viewingHint": "top",
           "canvases": [
                 "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
                 "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
