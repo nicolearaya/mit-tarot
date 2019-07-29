@@ -1490,117 +1490,117 @@
                   "@id": "http://libme25-0479439.mit.edu/objects/tarot/range/major", 
                   "@type": "sc:Range",
                   "label": "Major Arcana",
-                  "members": [
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
-                    "@type": "sc:Canvas",
-                    "label": "0. The Egg"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
-                    "@type": "sc:Canvas",
-                    "label": "I. The Balloon Animal"
-                  },
-                   {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
-                    "@type": "sc:Canvas",
-                    "label": "II. The Ice Cream Cone"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
-                    "@type": "sc:Canvas",
-                    "label": "III. The Sweetie Pie"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04",
-                    "@type": "sc:Canvas",
-                    "label": "IV. The Pillow"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05",
-                    "@type": "sc:Canvas",
-                    "label": "V. The Bouncy Ball"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06",
-                    "@type": "sc:Canvas",
-                    "label": "VI. The Ping Pong Ball"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07",
-                    "@type": "sc:Canvas",
-                    "label": "VII. The Tinted Window"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08",
-                    "@type": "sc:Canvas",
-                    "label": "VIII. Fluorescence"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09",
-                    "@type": "sc:Canvas",
-                    "label": "IX. The Cleansing"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10",
-                    "@type": "sc:Canvas",
-                    "label": "X. The Itch"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
-                    "@type": "sc:Canvas",
-                    "label": "XI. The Lullaby"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
-                    "@type": "sc:Canvas",
-                    "label": "XII. Static"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13",
-                    "@type": "sc:Canvas",
-                    "label": "XIII. The Tick"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-14",
-                    "@type": "sc:Canvas",
-                    "label": "XIV. The Crack"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15",
-                    "@type": "sc:Canvas",
-                    "label": "XV. The Siren"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-16",
-                    "@type": "sc:Canvas",
-                    "label": "XVI. The Bacterium"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17",
-                    "@type": "sc:Canvas",
-                    "label": "XVII. The Black Out"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-18",
-                    "@type": "sc:Canvas",
-                    "label": "XVIII. The Feather"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19",
-                    "@type": "sc:Canvas",
-                    "label": "XIX. Death"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20",
-                    "@type": "sc:Canvas",
-                    "label": "XX. The Useless Machine"
-                  },
-                  {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21",
-                    "@type": "sc:Canvas",
-                    "label": "XXI. Hello World"
-                  } 
+                  "canvases": [
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
+                      "@type": "sc:Canvas",
+                      "label": "0. The Egg"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
+                      "@type": "sc:Canvas",
+                      "label": "I. The Balloon Animal"
+                    },
+                     {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
+                      "@type": "sc:Canvas",
+                      "label": "II. The Ice Cream Cone"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
+                      "@type": "sc:Canvas",
+                      "label": "III. The Sweetie Pie"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04",
+                      "@type": "sc:Canvas",
+                      "label": "IV. The Pillow"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05",
+                      "@type": "sc:Canvas",
+                      "label": "V. The Bouncy Ball"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06",
+                      "@type": "sc:Canvas",
+                      "label": "VI. The Ping Pong Ball"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07",
+                      "@type": "sc:Canvas",
+                      "label": "VII. The Tinted Window"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08",
+                      "@type": "sc:Canvas",
+                      "label": "VIII. Fluorescence"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09",
+                      "@type": "sc:Canvas",
+                      "label": "IX. The Cleansing"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10",
+                      "@type": "sc:Canvas",
+                      "label": "X. The Itch"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
+                      "@type": "sc:Canvas",
+                      "label": "XI. The Lullaby"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
+                      "@type": "sc:Canvas",
+                      "label": "XII. Static"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13",
+                      "@type": "sc:Canvas",
+                      "label": "XIII. The Tick"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-14",
+                      "@type": "sc:Canvas",
+                      "label": "XIV. The Crack"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15",
+                      "@type": "sc:Canvas",
+                      "label": "XV. The Siren"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-16",
+                      "@type": "sc:Canvas",
+                      "label": "XVI. The Bacterium"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17",
+                      "@type": "sc:Canvas",
+                      "label": "XVII. The Black Out"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-18",
+                      "@type": "sc:Canvas",
+                      "label": "XVIII. The Feather"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19",
+                      "@type": "sc:Canvas",
+                      "label": "XIX. Death"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20",
+                      "@type": "sc:Canvas",
+                      "label": "XX. The Useless Machine"
+                    },
+                    {
+                      "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21",
+                      "@type": "sc:Canvas",
+                      "label": "XXI. Hello World"
+                    } 
                ]  
             }
           ]
