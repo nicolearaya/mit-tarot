@@ -1479,12 +1479,7 @@
           "@type": "sc:Range",
           "label": "Major Arcana",
           "viewingHint": "top",
-          "ranges": [
-                  {
-                  "@id": "http://libme25-0479439.mit.edu/objects/tarot/range/major", 
-                  "@type": "sc:Range",
-                  "label": "Major Arcana",
-                  "canvases": [
+          "canvases": [
                     {
                       "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
                       "@type": "sc:Canvas",
@@ -1595,8 +1590,6 @@
                       "@type": "sc:Canvas",
                       "label": "XXI. Hello World"
                     } 
-               ]  
-            }
           ]
         }
      ],
