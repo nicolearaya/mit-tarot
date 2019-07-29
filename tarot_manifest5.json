@@ -1489,8 +1489,8 @@
                   {
                   "@id": "http://libme25-0479439.mit.edu/objects/tarot/range/major", 
                   "@type": "sc:Range",
-                  "label": "Major Arcana"
-                   "members": [
+                  "label": "Major Arcana",
+                  "members": [
                   {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
                     "@type": "sc:Canvas",
