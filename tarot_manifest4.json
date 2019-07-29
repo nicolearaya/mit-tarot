@@ -1,3 +1,5 @@
+//uploads "Index" on ProjectMirador demo viewer but no other index elements appear
+
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://e07185b2-d711-444c-b461-835b26c5bc63",
