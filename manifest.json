@@ -1,0 +1,585 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://libme25-0479439.mit.edu/objects/tarot/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Images",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F17_the_blackout.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "17_the_blackout.jpg",
+          "height": 3369,
+          "width": 2378,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F17_the_blackout.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3369,
+                "width": 2378,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F17_the_blackout.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F17_the_blackout.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F11_the_lullaby.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "11_the_lullaby.jpg",
+          "height": 2964,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F11_the_lullaby.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F11_the_lullaby.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F11_the_lullaby.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F8_fluorescence.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "8_fluorescence.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F8_fluorescence.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F8_fluorescence.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F8_fluorescence.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F10_the_itch.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "10_the_itch.jpg",
+          "height": 2964,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F10_the_itch.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F13_the_tick.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "13_the_tick.jpg",
+          "height": 2955,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F13_the_tick.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2955,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F13_the_tick.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F13_the_tick.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F18_the_feather.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "18_the_feather.jpg",
+          "height": 2964,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F18_the_feather.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F18_the_feather.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F18_the_feather.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F6_the_ping_pong_ball.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "6_the_ping_pong_ball.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F6_the_ping_pong_ball.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F6_the_ping_pong_ball.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F6_the_ping_pong_ball.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F7_the_tinted_window.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "7_the_tinted_window.jpg",
+          "height": 2964,
+          "width": 1898,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F7_the_tinted_window.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1898,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F7_the_tinted_window.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F7_the_tinted_window.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F5_the_bouncy_ball.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "5_the_bouncy_ball.jpg",
+          "height": 2960,
+          "width": 1862,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F5_the_bouncy_ball.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1862,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F5_the_bouncy_ball.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F5_the_bouncy_ball.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F2_the_ice_cream_cone.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "2_the_ice_cream_cone.jpg",
+          "height": 2964,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F2_the_ice_cream_cone.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F2_the_ice_cream_cone.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F2_the_ice_cream_cone.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F12_static.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "12_static.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F12_static.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F12_static.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F12_static.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F4_the_pillow.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "4_the_pillow.jpg",
+          "height": 2960,
+          "width": 1862,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F4_the_pillow.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1862,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F4_the_pillow.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F4_the_pillow.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F0_the_egg.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "0_the_egg.jpg",
+          "height": 2947,
+          "width": 1902,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2947,
+                "width": 1902,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F0_the_egg.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F21_hello_world.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "21_hello_world.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F21_hello_world.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F21_hello_world.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F21_hello_world.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F16_the_bacterium.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "16_the_bacterium.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F16_the_bacterium.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F16_the_bacterium.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F16_the_bacterium.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F20_the_useless_machine.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "20_the_useless_machine.jpg",
+          "height": 2960,
+          "width": 1919,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F20_the_useless_machine.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2960,
+                "width": 1919,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F20_the_useless_machine.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F20_the_useless_machine.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F19_death.png.json",
+          "@type": "sc:Canvas",
+          "label": "19_death.png",
+          "height": 1500,
+          "width": 972,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F19_death.png/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 972,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F19_death.png",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F19_death.png.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F15_the_siren.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "15_the_siren.jpg",
+          "height": 2950,
+          "width": 1909,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F15_the_siren.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2950,
+                "width": 1909,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F15_the_siren.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F15_the_siren.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F1_the_balloon_animal.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "1_the_balloon_animal.jpg",
+          "height": 2947,
+          "width": 1850,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2947,
+                "width": 1850,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F1_the_balloon_animal.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F9_the_cleansing.png.json",
+          "@type": "sc:Canvas",
+          "label": "9_the_cleansing.png",
+          "height": 2964,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F9_the_cleansing.png/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F9_the_cleansing.png",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F9_the_cleansing.png.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F3_the_sweetie_pie.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "3_the_sweetie_pie.jpg",
+          "height": 2964,
+          "width": 1910,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F3_the_sweetie_pie.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2964,
+                "width": 1910,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F3_the_sweetie_pie.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F3_the_sweetie_pie.jpg.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F14_the_crack.png.json",
+          "@type": "sc:Canvas",
+          "label": "14_the_crack.png",
+          "height": 1466,
+          "width": 972,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F14_the_crack.png/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1466,
+                "width": 972,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F14_the_crack.png",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://libme25-0479439.mit.edu/objects/tarot/canvas/tarot%2F14_the_crack.png.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
