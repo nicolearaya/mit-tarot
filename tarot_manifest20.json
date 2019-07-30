@@ -1496,8 +1496,7 @@
 		{
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
 		    "@type": "sc:Range",
-		    "viewingHint": "top",
-		    "label": "Major Arcana",
+		    "label": "Minor Arcana",
 		    "canvases": [
 		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
 		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
