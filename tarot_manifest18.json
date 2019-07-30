@@ -1504,7 +1504,7 @@
 		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
 		    ]
 		},
-		        {
+		{
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
                     "@type": "sc:Range",
                     "label": "0. The Egg",
