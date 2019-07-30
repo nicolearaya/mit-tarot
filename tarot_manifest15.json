@@ -1476,7 +1476,7 @@
 		"structures": [
 		{
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-		    "@range": "sc:Range",
+		    "@type": "sc:Range",
 		    "label": "Major Arcana",
 		    "ranges": [
 		        {
