@@ -1475,9 +1475,15 @@
 	],
 		"structures": [
 		{
-		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r3",
 		    "@type": "sc:Range",
 		    "viewingHint": "top",
+		    "label": "Index",
+		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0", "http://libme25-0479439.mit.edu/objects/tarot/r1"]
+		},
+		{
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+		    "@type": "sc:Range",
 		    "label": "Major Arcana",
 		    "canvases": [
 		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
