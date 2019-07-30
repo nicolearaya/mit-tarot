@@ -1482,133 +1482,133 @@
 		        {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
                     "@type": "sc:Range",
-                    "label": "The Egg",
+                    "label": "0. The Egg",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
                     "@type": "sc:Range",
-                    "label": "The Balloon Animal",
+                    "label": "I. The Balloon Animal",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-02",
                     "@type": "sc:Range",
-                    "label": "The Ice Cream Cone",
+                    "label": "II. The Ice Cream Cone",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-03",
                     "@type": "sc:Range",
-                    "label": "The Sweetie Pie",
+                    "label": "III. The Sweetie Pie",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-04",
                     "@type": "sc:Range",
-                    "label": "The Pillow",
+                    "label": "IV. The Pillow",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-05",
                     "@type": "sc:Range",
-                    "label": "The Bouncy Ball",
+                    "label": "V. The Bouncy Ball",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-06",
                     "@type": "sc:Range",
-                    "label": "The Ping Pong Ball",
+                    "label": "VI. The Ping Pong Ball",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-07",
                     "@type": "sc:Range",
-                    "label": "The Tinted Window",
+                    "label": "VII. The Tinted Window",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-08",
                     "@type": "sc:Range",
-                    "label": "Fluorescence",
+                    "label": "VIII. Fluorescence",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-09",
                     "@type": "sc:Range",
-                    "label": "The Cleansing",
+                    "label": "IX. The Cleansing",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-10",
                     "@type": "sc:Range",
-                    "label": "The Itch",
+                    "label": "X. The Itch",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-11",
                     "@type": "sc:Range",
-                    "label": "The Lullaby",
+                    "label": "XI. The Lullaby",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-12",
                     "@type": "sc:Range",
-                    "label": "Static",
+                    "label": "XII. Static",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-13",
                     "@type": "sc:Range",
-                    "label": "The Tick",
+                    "label": "XIII. The Tick",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-14",
                     "@type": "sc:Range",
-                    "label": "The Crack",
+                    "label": "XIV. The Crack",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-14"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-15",
                     "@type": "sc:Range",
-                    "label": "The Siren",
+                    "label": "XV. The Siren",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-16",
                     "@type": "sc:Range",
-                    "label": "The Bacterium",
+                    "label": "XVI. The Bacterium",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-16"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-17",
                     "@type": "sc:Range",
-                    "label": "The Black Out",
+                    "label": "XVII. The Black Out",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-18",
                     "@type": "sc:Range",
-                    "label": "The Feather",
+                    "label": "XVIII. The Feather",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-18"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-19",
                     "@type": "sc:Range",
-                    "label": "Death",
+                    "label": "XIX. Death",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-20",
                     "@type": "sc:Range",
-                    "label": "The Useless Machine",
+                    "label": "XX. The Useless Machine",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20"]
                 },
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-21",
                     "@type": "sc:Range",
-                    "label": "Hello World",
+                    "label": "XXI. Hello World",
                     "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"]
                 } 
 		    ]
