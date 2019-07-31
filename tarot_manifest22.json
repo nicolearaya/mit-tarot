@@ -1487,7 +1487,6 @@
 		    "label": "Major Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r3",
 		    "canvases": [
-		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
 	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
@@ -1588,6 +1587,7 @@
 		    "label": "Minor Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r3",
 		    "canvases": [
+		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13",
@@ -1601,6 +1601,7 @@
 	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
 		    ],
 		    "ranges": [
+                "http://libme25-0479439.mit.edu/objects/tarot/r0-00",		        
 		        "http://libme25-0479439.mit.edu/objects/tarot/r0-11",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-12",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-13",
@@ -1613,7 +1614,14 @@
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-20",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-21"
 		    ]		    
-		},	        
+		},
+		{
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
+            "@type": "sc:Range",
+            "label": "0. The Egg",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
+        },	        
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-11",
                     "@type": "sc:Range",
