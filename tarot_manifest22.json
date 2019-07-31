@@ -1486,31 +1486,29 @@
 		    "@type": "sc:Range",
 		    "label": "Major Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r3",
-		    "canvases": [
+		    "members": [
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
-	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
+	            	"http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05",
-	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06",
+	           	"http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09",
-		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"
-		    ],
-		    "ranges": [ 
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-01",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-02",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-03",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-04",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-05",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-06",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-07",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-08",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-09",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-10"
+		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-00",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-01",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-02",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-03",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-04",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-05",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-06",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-07",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-08",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-09",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-10"
 		    ]
 		},
 		{
@@ -1529,23 +1527,21 @@
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-18",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20",
-	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
-		    ],
-		    "ranges": [
+	            	"http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
 		        "http://libme25-0479439.mit.edu/objects/tarot/r0-11",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-12",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-13",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-14",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-15",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-16",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-17",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-18",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-19",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-20",
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-21"
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-12",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-13",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-14",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-15",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-16",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-17",
+               	 	"http://libme25-0479439.mit.edu/objects/tarot/r0-18",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-19",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-20",
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-21"
 		    ]		    
 		},
-		        {
+		{
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
                     "@type": "sc:Range",
                     "label": "0. The Egg",
