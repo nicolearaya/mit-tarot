@@ -1509,19 +1509,6 @@
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r0",
 		    "@type": "sc:Range",
 		    "label": "Major Arcana",
-		    "canvases": [
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"
-		    ],
 		    "ranges": [ 
                     {
                         "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
@@ -1606,19 +1593,6 @@
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
 		    "@type": "sc:Range",
 		    "label": "Minor Arcana",
-		    "canvases": [
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-14",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-16",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-18",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20",
-		           "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
-		    ],
 		    "ranges": [
 		            {
                         "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-11",
