@@ -1487,6 +1487,7 @@
 		    "label": "Major Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r3",
 		    "canvases": [
+		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
 	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03",
@@ -1499,6 +1500,7 @@
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"
 		    ],
 		    "ranges": [ 
+                "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-01",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-02",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-03",
@@ -1511,6 +1513,13 @@
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-10"
 		    ]
 		},
+		{
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
+            "@type": "sc:Range",
+            "label": "0. The Egg",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
+        },
         {
             "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
             "@type": "sc:Range",
@@ -1524,70 +1533,69 @@
             "label": "II. The Ice Cream Cone",
             "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
             "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02"]
-                },
-               {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-03",
-                    "@type": "sc:Range",
-                    "label": "III. The Sweetie Pie",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-04",
-                    "@type": "sc:Range",
-                    "label": "IV. The Pillow",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-05",
-                    "@type": "sc:Range",
-                    "label": "V. The Bouncy Ball",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-06",
-                    "@type": "sc:Range",
-                    "label": "VI. The Ping Pong Ball",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-07",
-                    "@type": "sc:Range",
-                    "label": "VII. The Tinted Window",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-08",
-                    "@type": "sc:Range",
-                    "label": "VIII. Fluorescence",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-09",
-                    "@type": "sc:Range",
-                    "label": "IX. The Cleansing",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09"]
-                },
-                {
-                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-10",
-                    "@type": "sc:Range",
-                    "label": "X. The Itch",
-                    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-                    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"]
-                },
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-03",
+            "@type": "sc:Range",
+            "label": "III. The Sweetie Pie",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-04",
+            "@type": "sc:Range",
+            "label": "IV. The Pillow",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-05",
+            "@type": "sc:Range",
+            "label": "V. The Bouncy Ball",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-05"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-06",
+            "@type": "sc:Range",
+            "label": "VI. The Ping Pong Ball",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-06"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-07",
+            "@type": "sc:Range",
+            "label": "VII. The Tinted Window",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-08",
+            "@type": "sc:Range",
+            "label": "VIII. Fluorescence",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-08"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-09",
+            "@type": "sc:Range",
+            "label": "IX. The Cleansing",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-09"]
+        },
+        {
+            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-10",
+            "@type": "sc:Range",
+            "label": "X. The Itch",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"]
+        },
 		{
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
 		    "@type": "sc:Range",
 		    "label": "Minor Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r3",
 		    "canvases": [
-		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-13",
@@ -1601,7 +1609,6 @@
 	            "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-21"
 		    ],
 		    "ranges": [
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-00",		        
 		        "http://libme25-0479439.mit.edu/objects/tarot/r0-11",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-12",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-13",
@@ -1614,14 +1621,7 @@
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-20",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-21"
 		    ]		    
-		},
-		{
-            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
-            "@type": "sc:Range",
-            "label": "0. The Egg",
-            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
-        },	        
+		},	        
                 {
                     "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-11",
                     "@type": "sc:Range",
