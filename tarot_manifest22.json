@@ -1479,7 +1479,7 @@
 		    "@type": "sc:Range",
 		    "viewingHint": "top",
 		    "label": "Index",
-		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0", "http://libme25-0479439.mit.edu/objects/tarot/r1"]
+		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r1", "http://libme25-0479439.mit.edu/objects/tarot/r2"]
 		},
 		{
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
