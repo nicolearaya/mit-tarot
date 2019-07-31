@@ -1594,7 +1594,7 @@
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
 		    "@type": "sc:Range",
 		    "label": "Minor Arcana",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0,
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
 		    "canvases": [
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12",
