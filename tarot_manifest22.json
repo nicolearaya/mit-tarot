@@ -1500,7 +1500,6 @@
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10"
 		    ],
 		    "ranges": [ 
-                "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-01",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-02",
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-03",
@@ -1513,13 +1512,6 @@
                 "http://libme25-0479439.mit.edu/objects/tarot/r0-10"
 		    ]
 		},
-		{
-            "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
-            "@type": "sc:Range",
-            "label": "0. The Egg",
-            "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-            "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
-        },
         {
             "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
             "@type": "sc:Range",
