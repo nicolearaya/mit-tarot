@@ -1,0 +1,193 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://libme25-0479439.mit.edu/objects/tarot/tarot_manifest22.json",
+	"@type": "sc:Manifest",
+	"label": "Mind Control Tarot ",
+	"description": [
+		{
+			"@value": "22 original major arcana cards",
+			"@language": "en"
+		}                                                                                                                                                                                                                       
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Created by Angel A, 2018",
+	"sequences": [
+		{
+			"@id": "http://4ac95ea2-b923-4716-9d5e-883d4bfd4075",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
+					"@type": "sc:Canvas",
+					"label": "0. The Egg",
+					"height": 2947,
+					"width": 1902,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d4d2e7ed-fb8a-4463-9fb7-f0b05895c6f6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5605194,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1902
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
+					"@type": "sc:Canvas",
+					"label": "I. The Balloon Animal",
+					"height": 2947,
+					"width": 1850,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://95ac843c-a25f-40be-ab82-e9daff76b05c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5451950,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1850
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"
+						}
+					]
+				}
+	],
+	"structures": [
+		{
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+		    "@type": "sc:Range",
+		    "viewingHint": "top",
+		    "label": "Index",
+		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r1", "http://libme25-0479439.mit.edu/objects/tarot/r2"]
+		},
+		{
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r1",
+		    "@type": "sc:Range",
+		    "label": "Major Arcana",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"],
+		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0-01"]
+		},
+		{
+		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
+		    "@type": "sc:Range",
+		    "label": "I. The Balloon Animal",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r1",
+		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"]
+		},
+		{
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "@type": "sc:Range",
+		    "label": "Minor Arcana",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
+		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"],
+		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0-00"]		    
+		},	
+    {
+        "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
+        "@type": "sc:Range",
+        "label": "0. The Egg",
+        "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+        "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
+		}
+	],
+	"viewingDirection": "left-to-right"
+  }
