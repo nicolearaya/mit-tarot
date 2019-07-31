@@ -149,6 +149,8 @@
 						}
 					]
 				}
+			]
+		}
 	],
 	"structures": [
 		{
@@ -163,31 +165,39 @@
 		    "@type": "sc:Range",
 		    "label": "Major Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"],
-		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0-01"]
+		    "canvases": [
+		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"
+		    ],
+		    "ranges": [ 
+                	"http://libme25-0479439.mit.edu/objects/tarot/r0-00"
+		    ]
 		},
 		{
-		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
-		    "@type": "sc:Range",
-		    "label": "I. The Balloon Animal",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r1",
-		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"]
+                    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
+                    "@type": "sc:Range",
+               	    "label": "0. The Egg",
+            	    "within": "http://libme25-0479439.mit.edu/objects/tarot/r1",
+            	    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
 		},
 		{
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r2",
 		    "@type": "sc:Range",
 		    "label": "Minor Arcana",
 		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r0",
-		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"],
-		    "ranges": ["http://libme25-0479439.mit.edu/objects/tarot/r0-00"]		    
-		},	
-    		{
-        	    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/r0-00",
-        	    "@type": "sc:Range",
-        	    "label": "0. The Egg",
-        	    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
-        	    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
-		}
+		    "canvases": [
+		        "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"
+		    ],
+		    "ranges": [
+		        "http://libme25-0479439.mit.edu/objects/tarot/r0-01"
+		    ]		    
+		},	        
+		{
+		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/range/r0-01",
+		    "@type": "sc:Range",
+		    "label": "I. The Balloon Animal",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"]
+		} 
 	],
-	"viewingDirection": "left-to-right"
-  }
+	"viewingDirection": "left-to-right" 
+}
