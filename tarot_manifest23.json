@@ -2410,7 +2410,7 @@
 		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "@type": "sc:Range",
 		    "label": "Major Arcana",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/index",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/index",
 		    "canvases": [
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-00",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-01",
@@ -2463,173 +2463,173 @@
             "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-00",
             "@type": "sc:Range",
             "label": "0. The Fool",
-            "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+            "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
             "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-00"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-01",
 		    "@type": "sc:Range",
 		    "label": "I. The Magician",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-01"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-02",
 		    "@type": "sc:Range",
 		    "label": "II. The High Priestess",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-02"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-03",
 		    "@type": "sc:Range",
 		    "label": "III. The Empress",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-03"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-04",
 		    "@type": "sc:Range",
 		    "label": "IV. The Emperor",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-04"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-05",
 		    "@type": "sc:Range",
 		    "label": "V. The Hierophant",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-05"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-06",
 		    "@type": "sc:Range",
 		    "label": "VI. The Lovers",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-06"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-07",
 		    "@type": "sc:Range",
 		    "label": "VII. The Chariot",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-07"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-08",
 		    "@type": "sc:Range",
 		    "label": "VIII. Strength",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-08"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-09",
 		    "@type": "sc:Range",
 		    "label": "IX. The Hermit",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-09"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-10",
 		    "@type": "sc:Range",
 		    "label": "X. The Wheel of Fortune",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-10"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-11",
 		    "@type": "sc:Range",
 		    "label": "XI. Justice",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-11"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-12",
 		    "@type": "sc:Range",
 		    "label": "XII. The Hanged Man",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-12"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-13",
 		    "@type": "sc:Range",
 		    "label": "XIII. Death",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-13"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-14",
 		    "@type": "sc:Range",
 		    "label": "XIV. Temperance",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-14"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-15",
 		    "@type": "sc:Range",
 		    "label": "XV. The Devil",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-15"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-16",
 		    "@type": "sc:Range",
 		    "label": "XVI. The Tower",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-16"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-17",
 		    "@type": "sc:Range",
 		    "label": "XVII. The Star",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-17"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-18",
 		    "@type": "sc:Range",
 		    "label": "XVIII. The Moon",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-18"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-19",
 		    "@type": "sc:Range",
 		    "label": "XIX. The Sun",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-19"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-20",
 		    "@type": "sc:Range",
 		    "label": "XX. Judgement",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-20"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r1-21",
 		    "@type": "sc:Range",
 		    "label": "XXI. The World",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/major",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/major",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-01-21"]
 		},
 		{
-		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/minor",
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/minor",
 		    "@type": "sc:Range",
 		    "label": "Minor Arcana",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/index",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/index",
 		    "ranges": [
-		            "http://libme25-0479439.mit.edu/objects/tarot/r2",
-                	"http://libme25-0479439.mit.edu/objects/tarot/r3",
-                	"http://libme25-0479439.mit.edu/objects/tarot/r4",
-                	"http://libme25-0479439.mit.edu/objects/tarot/r5"
+		            "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
+                	"http://libme25-0479439.mit.edu/objects/tarot/TD0058/r3",
+                	"http://libme25-0479439.mit.edu/objects/tarot/TD0058/r4",
+                	"http://libme25-0479439.mit.edu/objects/tarot/TD0058/r5"
 		    ]		    
 		}, 
 		{
-		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "@type": "sc:Range",
 		    "label": "Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/minor",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/minor",
 		    "canvases": [
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-01",
 		        "http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-02",
@@ -2667,98 +2667,98 @@
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-01",
 		    "@type": "sc:Range",
 		    "label": "Ace of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-01"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-02",
 		    "@type": "sc:Range",
 		    "label": "Two of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-02"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-03",
 		    "@type": "sc:Range",
 		    "label": "Three of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-03"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-04",
 		    "@type": "sc:Range",
 		    "label": "Four of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-04"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-05",
 		    "@type": "sc:Range",
 		    "label": "Five of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-05"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-06",
 		    "@type": "sc:Range",
 		    "label": "Six of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-06"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-07",
 		    "@type": "sc:Range",
 		    "label": "Seven of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-07"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-08",
 		    "@type": "sc:Range",
 		    "label": "Eight of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-08"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-09",
 		    "@type": "sc:Range",
 		    "label": "Nine of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-09"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-10",
 		    "@type": "sc:Range",
 		    "label": "Ten of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-10"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-11",
 		    "@type": "sc:Range",
 		    "label": "Page of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-11"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-12",
 		    "@type": "sc:Range",
 		    "label": "Knight of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-12"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-13",
 		    "@type": "sc:Range",
 		    "label": "Queen of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-13"]
 		},
 		{
 		    "@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0058-r2-14",
 		    "@type": "sc:Range",
 		    "label": "King of Wands",
-		    "within": "http://libme25-0479439.mit.edu/objects/tarot/r2",
+		    "within": "http://libme25-0479439.mit.edu/objects/tarot/TD0058/r2",
 		    "canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0058-02-14"]
 		}
 	],
