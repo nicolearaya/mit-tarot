@@ -2398,7 +2398,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-01",
 					"@type": "sc:Canvas",
-					"label": "Ace of Wands",
+					"label": "Ace of Cups",
 					"height": 2947,
 					"width": 1850,
 					"images": [
@@ -2464,7 +2464,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-02",
 					"@type": "sc:Canvas",
-					"label": "Two of Wands",
+					"label": "Two of Cups",
 					"height": 2964,
 					"width": 1919,
 					"images": [
@@ -2530,7 +2530,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-03",
 					"@type": "sc:Canvas",
-					"label": "Three of Wands",
+					"label": "Three of Cups",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -2596,7 +2596,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-04",
 					"@type": "sc:Canvas",
-					"label": "Four of Wands",
+					"label": "Four of Cups",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -2662,7 +2662,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-05",
 					"@type": "sc:Canvas",
-					"label": "Five of Wands",
+					"label": "Five of Cups",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -2728,7 +2728,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-06",
 					"@type": "sc:Canvas",
-					"label": "Six of Wands",
+					"label": "Six of Cups",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -2794,7 +2794,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-07",
 					"@type": "sc:Canvas",
-					"label": "Seven of Wands",
+					"label": "Seven of Cups",
 					"height": 2964,
 					"width": 1898,
 					"images": [
@@ -2860,7 +2860,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-08",
 					"@type": "sc:Canvas",
-					"label": "Eight of Wands",
+					"label": "Eight of Cups",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -2926,7 +2926,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-09",
 					"@type": "sc:Canvas",
-					"label": "Nine of Wands",
+					"label": "Nine of Cups",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -2993,7 +2993,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-10",
 					"@type": "sc:Canvas",
-					"label": "Ten of Wands",
+					"label": "Ten of Cups",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -3059,7 +3059,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-11",
 					"@type": "sc:Canvas",
-					"label": "Page of Wands",
+					"label": "Page of Cups",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -3125,7 +3125,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-12",
 					"@type": "sc:Canvas",
-					"label": "Knight of Wands",
+					"label": "Knight of Cups",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -3191,7 +3191,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-13",
 					"@type": "sc:Canvas",
-					"label": "Queen of Wands",
+					"label": "Queen of Cups",
 					"height": 2955,
 					"width": 1910,
 					"images": [
@@ -3257,7 +3257,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-03-14",
 					"@type": "sc:Canvas",
-					"label": "King of Wands",
+					"label": "King of Cups",
 					"height": 1466,
 					"width": 972,
 					"images": [
@@ -3323,7 +3323,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-01",
 					"@type": "sc:Canvas",
-					"label": "Ace of Wands",
+					"label": "Ace of Swords",
 					"height": 2947,
 					"width": 1850,
 					"images": [
@@ -3389,7 +3389,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-02",
 					"@type": "sc:Canvas",
-					"label": "Two of Wands",
+					"label": "Two of Swords",
 					"height": 2964,
 					"width": 1919,
 					"images": [
@@ -3455,7 +3455,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-03",
 					"@type": "sc:Canvas",
-					"label": "Three of Wands",
+					"label": "Three of Swords",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -3521,7 +3521,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-04",
 					"@type": "sc:Canvas",
-					"label": "Four of Wands",
+					"label": "Four of Swords",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -3587,7 +3587,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-05",
 					"@type": "sc:Canvas",
-					"label": "Five of Wands",
+					"label": "Five of Swords",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -3653,7 +3653,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-06",
 					"@type": "sc:Canvas",
-					"label": "Six of Wands",
+					"label": "Six of Swords",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -3719,7 +3719,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-07",
 					"@type": "sc:Canvas",
-					"label": "Seven of Wands",
+					"label": "Seven of Swords",
 					"height": 2964,
 					"width": 1898,
 					"images": [
@@ -3785,7 +3785,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-08",
 					"@type": "sc:Canvas",
-					"label": "Eight of Wands",
+					"label": "Eight of Swords",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -3851,7 +3851,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-09",
 					"@type": "sc:Canvas",
-					"label": "Nine of Wands",
+					"label": "Nine of Swords",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -3918,7 +3918,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-10",
 					"@type": "sc:Canvas",
-					"label": "Ten of Wands",
+					"label": "Ten of Swords",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -3984,7 +3984,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-11",
 					"@type": "sc:Canvas",
-					"label": "Page of Wands",
+					"label": "Page of Swords",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -4050,7 +4050,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-12",
 					"@type": "sc:Canvas",
-					"label": "Knight of Wands",
+					"label": "Knight of Swords",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -4116,7 +4116,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-13",
 					"@type": "sc:Canvas",
-					"label": "Queen of Wands",
+					"label": "Queen of Swords",
 					"height": 2955,
 					"width": 1910,
 					"images": [
@@ -4182,7 +4182,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-04-14",
 					"@type": "sc:Canvas",
-					"label": "King of Wands",
+					"label": "King of Swords",
 					"height": 1466,
 					"width": 972,
 					"images": [
@@ -4248,7 +4248,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-01",
 					"@type": "sc:Canvas",
-					"label": "Ace of Wands",
+					"label": "Ace of Pentacles",
 					"height": 2947,
 					"width": 1850,
 					"images": [
@@ -4314,7 +4314,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-02",
 					"@type": "sc:Canvas",
-					"label": "Two of Wands",
+					"label": "Two of Pentacles",
 					"height": 2964,
 					"width": 1919,
 					"images": [
@@ -4380,7 +4380,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-03",
 					"@type": "sc:Canvas",
-					"label": "Three of Wands",
+					"label": "Three of Pentacles",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -4446,7 +4446,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-04",
 					"@type": "sc:Canvas",
-					"label": "Four of Wands",
+					"label": "Four of Pentacles",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -4512,7 +4512,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-05",
 					"@type": "sc:Canvas",
-					"label": "Five of Wands",
+					"label": "Five of Pentacles",
 					"height": 2960,
 					"width": 1862,
 					"images": [
@@ -4578,7 +4578,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-06",
 					"@type": "sc:Canvas",
-					"label": "Six of Wands",
+					"label": "Six of Pentacles",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -4644,7 +4644,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-07",
 					"@type": "sc:Canvas",
-					"label": "Seven of Wands",
+					"label": "Seven of Pentacles",
 					"height": 2964,
 					"width": 1898,
 					"images": [
@@ -4710,7 +4710,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-08",
 					"@type": "sc:Canvas",
-					"label": "Eight of Wands",
+					"label": "Eight of Pentacles",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -4776,7 +4776,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-09",
 					"@type": "sc:Canvas",
-					"label": "Nine of Wands",
+					"label": "Nine of Pentacles",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -4843,7 +4843,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-10",
 					"@type": "sc:Canvas",
-					"label": "Ten of Wands",
+					"label": "Ten of Pentacles",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -4909,7 +4909,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-11",
 					"@type": "sc:Canvas",
-					"label": "Page of Wands",
+					"label": "Page of Pentacles",
 					"height": 2964,
 					"width": 1910,
 					"images": [
@@ -4975,7 +4975,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-12",
 					"@type": "sc:Canvas",
-					"label": "Knight of Wands",
+					"label": "Knight of Pentacles",
 					"height": 2960,
 					"width": 1919,
 					"images": [
@@ -5041,7 +5041,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-13",
 					"@type": "sc:Canvas",
-					"label": "Queen of Wands",
+					"label": "Queen of Pentacles",
 					"height": 2955,
 					"width": 1910,
 					"images": [
@@ -5107,7 +5107,7 @@
 				{
 					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0058-05-14",
 					"@type": "sc:Canvas",
-					"label": "King of Wands",
+					"label": "King of Pentacles",
 					"height": 1466,
 					"width": 972,
 					"images": [
