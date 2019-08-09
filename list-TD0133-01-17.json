@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 74.2% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17#xywh=1688,842,669,2527"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Man, 56.7% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17#xywh=404,2399,1834,943"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Flower, 55.1% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17#xywh=665,20,1261,505"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17-003.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 54.9% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17#xywh=1153,2425,721,924"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-17-004.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Man, 54.3% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-17#xywh=749,1118,839,1512"
+    }
+  ]
+}

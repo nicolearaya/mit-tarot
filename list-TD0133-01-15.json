@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-15.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-15-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Guitar, 89.4% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15#xywh=675,619,558,1744"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-15-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Musical Instrument, 59.3% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15#xywh=675,619,558,1744"
+    }    
+  ]
+}
