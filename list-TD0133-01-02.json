@@ -10,7 +10,7 @@
         "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-000.json",
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "person"
+        "chars": "person, 53.0% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=1304,1482,519,1352"
     }
