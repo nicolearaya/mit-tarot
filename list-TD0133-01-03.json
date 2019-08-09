@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "person, 80.4% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=745,237,439,1186"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "tire, 68.6% confidence (Google Vision)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1425,344,439,705"
+    }
+  ]
+}
