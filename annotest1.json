@@ -1,0 +1,95 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://libme25-0479439.mit.edu/objects/tarot/annotest1.json",
+	"@type": "sc:Manifest",
+	"label": "Mind Control Tarot ",
+	"description": [
+		{
+			"@value": "22 original major arcana cards",
+			"@language": "en"
+		}                                                                                                                                                                                                                       
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Created by Angel A, 2018",
+	"sequences": [
+		{
+			"@id": "http://4ac95ea2-b923-4716-9d5e-883d4bfd4075",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+			{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02",
+					"@type": "sc:Canvas",
+					"label": "II. The Ice Cream Cone",
+					"height": 2964,
+					"width": 1919,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://502ab9a5-daf2-4c6f-bcd9-7483bd653cdc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F2_the_ice_cream_cone.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F2_the_ice_cream_cone.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5687916,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2964,
+								"width": 1919
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02"
+						}
+					],
+					"otherContent": [
+                    {
+                      "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02.json",
+                      "@type": "sc:AnnotationList"
+                    }
+                  ]
+			   }
+			]
+		}
+	]
+}

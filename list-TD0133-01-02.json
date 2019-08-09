@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "person"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=1304,1482,519,1352"
+    }
+  ]
+}
