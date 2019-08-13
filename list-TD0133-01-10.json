@@ -10,9 +10,20 @@
         "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-10-000.json",
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "person, 82.2% confidence (Google Vision)"
+        "chars": "Person, 82.2% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10#xywh=435,415,1207,1778"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-10-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 83.2% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-10#xywh=244,134,1513,1970"
     }
   ]
 }
