@@ -10,7 +10,7 @@
         "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-000.json",
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "person, 80.4% confidence (Google Vision)"
+        "chars": "Person, 80.4% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=745,237,439,1186"
     },
@@ -21,9 +21,42 @@
         "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-001.json",
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "tire, 68.6% confidence (Google Vision)"
+        "chars": "Tire, 68.6% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1425,344,439,705"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 72.2% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=745,429,397,993"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-003.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 45.6% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=720,2143,384,595"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-004.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Wheel, 51.2% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1464,401,399,662"
     }
   ]
 }
