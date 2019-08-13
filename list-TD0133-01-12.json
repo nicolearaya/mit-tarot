@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-12.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-12-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Painting, 62.5% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12#xywh=44,482,1873,2476"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-12-000.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 66.9% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-12#xywh=1405,2671,36,114"
+    }
+  ]
+}
