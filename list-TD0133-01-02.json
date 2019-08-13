@@ -10,9 +10,42 @@
         "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-000.json",
         "@type": "dctypes:Text",
         "format": "text/plain",
-        "chars": "person, 53.0% confidence (Google Vision)"
+        "chars": "Person, 53.0% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=1304,1482,519,1352"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 85.1% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=1291,1745,514,889"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bird, 88.8% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=115,2035,792,915"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-02-003.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sunglasses, 73.8% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-02#xywh=992,1691,150,119"
     }
   ]
 }
