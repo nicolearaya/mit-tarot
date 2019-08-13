@@ -13,6 +13,28 @@
         "chars": "person, 75.7% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07#xywh=1152,945,177,819"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-07-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Boat, 71.2% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07#xywh=0,82,1897,2880"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-07-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bow, 58.3% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-07#xywh=102,160,1732,2740"
     }
   ]
 }
