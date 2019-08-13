@@ -23,7 +23,7 @@
         "format": "text/plain",
         "chars": "Bird, 76.3% confidence (Amazon Rekognition)"
       },
-      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04#xywh=1457,1407,378,2402"
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-04#xywh=1457,1407,378,500"
     },
     {
       "@type": "oa:Annotation",
