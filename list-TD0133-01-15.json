@@ -24,6 +24,17 @@
         "chars": "Musical Instrument, 59.3% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15#xywh=675,619,558,1744"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-15-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rug, 81.7% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-15#xywh=22,60,1842,2996"
     }    
   ]
 }
