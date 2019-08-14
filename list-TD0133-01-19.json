@@ -13,6 +13,17 @@
         "chars": "Lighting, 51.1% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19#xywh=304,183,265,1160"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-19-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 82.8% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19#xywh=200,828,369,479"
     }
   ]
 }
