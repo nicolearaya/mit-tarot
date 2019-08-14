@@ -24,6 +24,17 @@
         "chars": "Person, 82.8% confidence (Amazon Rekognition)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19#xywh=200,828,369,479"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-19-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 71.8% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-19#xywh=188,900,380,413"
     }
   ]
 }

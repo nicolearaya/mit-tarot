@@ -57,6 +57,61 @@
         "chars": "Wheel, 51.2% confidence (Amazon Rekognition)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1464,401,399,662"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-005.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 61.1% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=738,284,385,1094"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-006.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 56.0% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1177,1195,224,811"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-007.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 56.3% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=977,2105,336,606"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-008.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 60.9% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=1192,2027,457,627"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-03-009.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 60.8% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-03#xywh=709,2137,424,653"
     }
   ]
 }

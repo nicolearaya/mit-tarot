@@ -35,6 +35,28 @@
         "chars": "Person, 66.8% confidence (Amazon Rekognition)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11#xywh=96,831,1689,2070"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-11-003.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 78.6% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11#xywh=555,236,447,732"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-11-004.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Animal, 60.2% confidence (Microsoft Azure)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-11#xywh=581,1660,661,345"
     }
   ]
 }
