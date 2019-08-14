@@ -13,6 +13,127 @@
         "chars": "Hat, 50.9% confidence (Google Vision)"
       },
       "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-20-02#xywh=589,240,539,305"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-001.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 94.0% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=1267,2838,31,99"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-002.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 93.0% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=222,2703,86,222"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-003.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 85.4% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=416,2751,70,158"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-004.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 66.4% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=703,2778,22,53"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-005.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 65.7% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=1160,2889,24,53"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-006.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 62.0 confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=475,2781,39,97"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-007.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 61.2% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=1253,2363,78,169"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-008.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 56.3% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=696,2782,21,53"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-009.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Person, 51.9% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=740,2790,24,47"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-010.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Boat, 95.7% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=138,2134,268,552"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "oa:tagging",
+      "resource":{
+        "@id": "https://nicolearaya.github.io/mit-tarot/list-TD0133-01-20-011.json",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Boat, 58.4% confidence (Amazon Rekognition)"
+      },
+      "on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-20#xywh=923,2593,92,73"
     }
   ]
 }
