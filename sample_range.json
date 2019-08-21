@@ -1,0 +1,530 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://libme25-0479439.mit.edu/objects/tarot/tarot_manifest23.json",
+	"@type": "sc:Manifest",
+	"label": "Mind Control Tarot ",
+	"description": [
+		{
+			"@value": "22 original major arcana cards",
+			"@language": "en"
+		}                                                                                                                                                                                                                       
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Created by Angel A, 2018",
+	"sequences": [
+		{
+			"@id": "http://4ac95ea2-b923-4716-9d5e-883d4bfd4075",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
+					"@type": "sc:Canvas",
+					"label": "0. The Egg",
+					"height": 2947,
+					"width": 1902,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d4d2e7ed-fb8a-4463-9fb7-f0b05895c6f6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F0_the_egg.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5605194,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1902
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01",
+					"@type": "sc:Canvas",
+					"label": "I. The Balloon Animal",
+					"height": 2947,
+					"width": 1850,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://95ac843c-a25f-40be-ab82-e9daff76b05c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5451950,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1850
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-01",
+					"@type": "sc:Canvas",
+					"label": "Ace of Wands",
+					"height": 2947,
+					"width": 1850,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://95ac843c-a25f-40be-ab82-e9daff76b05c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5451950,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1850
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-01"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-10",
+					"@type": "sc:Canvas",
+					"label": "Ten of Wands",
+					"height": 2964,
+					"width": 1910,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://173dc807-4803-472b-b84a-0f0dcac2eebc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5661240,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2964,
+								"width": 1910
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-10"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-01",
+					"@type": "sc:Canvas",
+					"label": "Ace of Cups",
+					"height": 2947,
+					"width": 1850,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://95ac843c-a25f-40be-ab82-e9daff76b05c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F1_the_balloon_animal.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5451950,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2947,
+								"width": 1850
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-01"
+						}
+					]
+				},
+				{
+					"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-10",
+					"@type": "sc:Canvas",
+					"label": "Ten of Cups",
+					"height": 2964,
+					"width": 1910,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://173dc807-4803-472b-b84a-0f0dcac2eebc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cantaloupe-stage.mitlib.net/iiif/2/tarot%2F10_the_itch.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 5661240,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2964,
+								"width": 1910
+							},
+							"on": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-10"
+						}
+					]
+				}
+			]
+		}
+	],		
+"structures": [
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/index",
+"@type": "sc:Range",
+"viewingHint": "top",
+"label": "Index",
+"ranges": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133/major",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133/minor"
+]
+	},
+	{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/major",
+"@type": "sc:Range",
+"label": "Major Arcana",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/index",
+"canvases": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"
+],
+"ranges": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r01-00",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r01-01"
+]
+},
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r01-00",
+"@type": "sc:Range",
+"label": "0. The Fool",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/major",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-00"]
+},
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r01-01",
+"@type": "sc:Range",
+"label": "I. The Magician",
+	"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/major",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-01-01"]
+},
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/minor",
+"@type": "sc:Range",
+"label": "Minor Arcana",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/index",
+"canvases": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-01",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-10",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-01",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-10"		    ],
+"ranges": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133/r02",
+                	"http://libme25-0479439.mit.edu/objects/tarot/TD0133/r03"
+		]		    
+},
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r02",
+"@type": "sc:Range",
+"label": "Wands",
+"within":"http://libme25-0479439.mit.edu/objects/tarot/TD0133/minor",
+"canvases": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-01",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-10"
+],
+"ranges": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r02-01",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r02-10"
+]		    
+	},
+{
+"@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r02-01",
+"@type": "sc:Range",
+"label": "Ace of Wands",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r02",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-01"]
+	},
+	{
+"@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r02-10",
+"@type": "sc:Range",
+"label": "Ten of Wands",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r02",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-02-10"]
+},
+{
+"@id": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r03",
+"@type": "sc:Range",
+"label": "Cups",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/minor",
+"canvases": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-01",
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-10"
+],
+"ranges": [
+"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r03-01",
+                	"http://libme25-0479439.mit.edu/objects/tarot/TD0133-r03-10"
+]		    
+	},
+{
+"@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r03-01",
+"@type": "sc:Range",
+"label": "Ace of Cups",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r03",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-01"]
+},
+{
+"@id":  "http://libme25-0479439.mit.edu/objects/tarot/TD0133-r03-10",
+"@type": "sc:Range",
+"label": "Ten of Cups",
+"within": "http://libme25-0479439.mit.edu/objects/tarot/TD0133/r03",
+"canvases": ["http://libme25-0479439.mit.edu/objects/tarot/TD0133-03-10"]
+}
+]
+}
